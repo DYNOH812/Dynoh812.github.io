@@ -1,7 +1,12 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.c1743adb.css",
     "main.js": "/static/js/main.c5bc7e79.js",
+=======
+    "main.css": "/static/css/main.e4f01c9c.css",
+    "main.js": "/static/js/main.2482b763.js",
+>>>>>>> afe2965 (Initial commit)
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -63,11 +68,20 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
+<<<<<<< HEAD
     "main.c1743adb.css.map": "/static/css/main.c1743adb.css.map",
     "main.c5bc7e79.js.map": "/static/js/main.c5bc7e79.js.map"
   },
   "entrypoints": [
     "static/css/main.c1743adb.css",
     "static/js/main.c5bc7e79.js"
+=======
+    "main.e4f01c9c.css.map": "/static/css/main.e4f01c9c.css.map",
+    "main.2482b763.js.map": "/static/js/main.2482b763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f01c9c.css",
+    "static/js/main.2482b763.js"
+>>>>>>> afe2965 (Initial commit)
   ]
 }
